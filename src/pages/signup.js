@@ -19,7 +19,7 @@ export const Signup = () => {
           </thead> 
           <tbody></tbody> 
         </table> 
-      </div> 
+      </div>
     </div>
   )
 }
